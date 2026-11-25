@@ -1,0 +1,35 @@
+# Environment configuration
+python-dotenv
+
+# LLM orchestration
+langchain
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langgraph
+
+# Embeddings and reranking
+sentence-transformers
+
+# Vector database
+chromadb
+langchain-chroma
+
+# Keyword retrieval
+rank-bm25
+
+# LLM inference
+huggingface-hub
+
+# Backend development
+fastapi
+uvicorn
+pydantic
+
+# Frontend development
+streamlit
+requests
+
+# Automated testing
+pytest
+httpx
