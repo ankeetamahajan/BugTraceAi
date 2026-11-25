@@ -1,0 +1,35 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Secret credentials
+.env
+.streamlit/secrets.toml
+
+# Vector database
+chroma_db/
+
+# Testing cache
+.pytest_cache/
+.coverage
+
+# Model cache
+.cache/
+models/
+
+# Logs
+*.log
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
